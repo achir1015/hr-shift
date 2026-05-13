@@ -1,6 +1,10 @@
 # hr-shift
 排班管理系統
 排班管理系統 — 功能總結與注意事項
+<img width="343" height="613" alt="image" src="https://github.com/user-attachments/assets/e010027e-5a75-4a0b-b2c6-1b1f5b1d5bf6" />
+<img width="1874" height="913" alt="image" src="https://github.com/user-attachments/assets/18d82730-42b7-4b71-a5f3-79c8de071ef7" />
+<img width="1894" height="725" alt="image" src="https://github.com/user-attachments/assets/9c24d6de-8d4b-4d89-9a5f-6a9c6dd70e98" />
+
 系統網址： https://ipmos.ngrok.app/hr_shift/ 
 資料庫： hr_shift_db（MariaDB 10，Port 3307） 建立日期： 2026-05
 
